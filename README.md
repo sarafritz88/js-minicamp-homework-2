@@ -8,7 +8,7 @@
 	* `&&`, `||`, `!`-- logical operators, && runs code only if two conditions are met, || or, runs code if one of two statements are met, ! not, returns true if the opposite of the code is true.
 	* Arrays-- Arrays are variables that hold more than one type of variable
 	* Git--- a system for making changes to code, allows multiple people to work on code.
-	* GitHub-- a website for storing and managing gits
+	* GitHub-- a website for storing and managing gits.
 
 
 2. Install git.  https://git-scm.com/downloads
